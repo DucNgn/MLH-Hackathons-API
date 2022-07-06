@@ -1,0 +1,1622 @@
+[
+  {
+    "name": "MLH INIT 2022",
+    "website": "https://hackp.ac/INIT",
+    "date": {
+      "start": "2022-06-27",
+      "end": "2022-07-05"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/206/206/thumb/Screen_Shot_2021-06-21_at_10.35.51_AM.png?1624286342",
+      "alt": "Screen shot 2021 06 21 at 10.35.51 am"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/206/206/thumb/Screen_Shot_2021-06-21_at_10.39.29_AM.png?1624286386",
+      "alt": "Screen shot 2021 06 21 at 10.39.29 am"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "GHW: INIT",
+    "website": "https://hackp.ac/INIT",
+    "date": {
+      "start": "2022-07-03",
+      "end": "2022-07-10"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/211/312/thumb/INIT-generic_mlh-event-hero_%281%29.png?1652884234",
+      "alt": "Init generic mlh event hero %281%29"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/211/312/thumb/INIT-generic_mlh-event-title.png?1652884234",
+      "alt": "Init generic mlh event title"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "Hacktoon",
+    "website": "https://organize.mlh.io/participants/events/7140-hacktoon",
+    "date": {
+      "start": "2022-07-09",
+      "end": "2022-07-11"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/206/321/thumb/toon-hacks_mlh-event-hero.png?1624616880",
+      "alt": "Toon hacks mlh event hero"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/206/321/thumb/toon-hacks_mlh-event-title.png?1624616880",
+      "alt": "Toon hacks mlh event title"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "Bon Voyage Hacks",
+    "website": "https://organize.mlh.io/participants/events/7141-bon-voyage-hacks",
+    "date": {
+      "start": "2022-07-16",
+      "end": "2022-07-18"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/206/322/thumb/Bon-Voyage-Hacks_mlh-event-hero.png?1624639385",
+      "alt": "Bon voyage hacks mlh event hero"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/206/322/thumb/Bon-Voyage-Hacks_mlh-event-title.png?1624639384",
+      "alt": "Bon voyage hacks mlh event title"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "Hacky Birthday MLH!",
+    "website": "https://organize.mlh.io/participants/events/7142-hacky-birthday-mlh",
+    "date": {
+      "start": "2022-07-23",
+      "end": "2022-07-25"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/206/400/thumb/Hacky-Birthday-MLH_mlh-event-hero.png?1625323754",
+      "alt": "Hacky birthday mlh mlh event hero"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/206/400/thumb/Hacky-Birthday-MLH_mlh-event-title.png?1625323754",
+      "alt": "Hacky birthday mlh mlh event title"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "SelfieHacks",
+    "website": "https://organize.mlh.io/participants/events/7143-selfiehacks",
+    "date": {
+      "start": "2022-07-30",
+      "end": "2022-08-01"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/206/401/thumb/selfie-Hacks_mlh-event-hero.png?1625417580",
+      "alt": "Selfie hacks mlh event hero"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/206/401/thumb/selfie-Hacks_mlh-event-title.png?1625417580",
+      "alt": "Selfie hacks mlh event title"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "RoboHacks",
+    "website": "https://organize.mlh.io/participants/events/7144-robohacks",
+    "date": {
+      "start": "2022-08-06",
+      "end": "2022-08-08"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/206/402/thumb/robo-Hacks_mlh-event-hero.png?1625417703",
+      "alt": "Robo hacks mlh event hero"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/206/402/thumb/robo-Hacks_mlh-event-title.png?1625417703",
+      "alt": "Robo hacks mlh event title"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "Hack the 6ix",
+    "website": "https://hackthe6ix.com",
+    "date": {
+      "start": "2022-08-20",
+      "end": "2022-08-22"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/206/835/thumb/MLH_Event_Background_%281%29.png?1626203851",
+      "alt": "Mlh event background %281%29"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/206/835/thumb/Logo_-_Dark_Mode_%281%29.png?1626203851",
+      "alt": "Logo   dark mode %281%29"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "Slam Dunk Hacks",
+    "website": "https://organize.mlh.io/participants/events/7157-slam-dunk-hacks",
+    "date": {
+      "start": "2022-08-20",
+      "end": "2022-08-22"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/206/403/thumb/slam-dunk-hacks_mlh-event-hero.png?1626463530",
+      "alt": "Slam dunk hacks mlh event hero"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/206/403/thumb/slam-dunk-hacks_mlh-event-title.png?1626463530",
+      "alt": "Slam dunk hacks mlh event title"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "SharkHacks3",
+    "website": "https://organize.mlh.io/participants/events/7158-sharkhacks3",
+    "date": {
+      "start": "2022-08-27",
+      "end": "2022-08-29"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/206/404/thumb/shark-hacks_mlh-event-hero_%281%29.png?1626463670",
+      "alt": "Shark hacks mlh event hero %281%29"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/206/404/thumb/shark-hacks_mlh-event-title_%281%29.png?1626463670",
+      "alt": "Shark hacks mlh event title %281%29"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "TechNova's Hack with Us",
+    "website": "https://www.itstechnova.org/",
+    "date": {
+      "start": "2022-08-27",
+      "end": "2022-08-29"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/207/031/thumb/MLH_Background_%281%29.png?1626896406",
+      "alt": "Mlh background %281%29"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/207/031/thumb/Profile_Photo__1_.png?1626896405",
+      "alt": "Profile photo  1 "
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "Teacher's Hack",
+    "website": "https://organize.mlh.io/participants/events/7161-teacher-s-hack",
+    "date": {
+      "start": "2022-09-03",
+      "end": "2022-09-05"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/206/405/thumb/teachers-hacks_mlh-event-hero.png?1626463906",
+      "alt": "Teachers hacks mlh event hero"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/206/405/thumb/teachers-hacks_mlh-event-title.png?1626463905",
+      "alt": "Teachers hacks mlh event title"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "OHacksIO",
+    "website": "https://ohacksio.org/",
+    "date": {
+      "start": "2022-09-04",
+      "end": "2022-09-06"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/208/033/thumb/Background_%284%29.png?1629897879",
+      "alt": "Background %284%29"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/208/033/thumb/Logo_%287%29.png?1629897877",
+      "alt": "Logo %287%29"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "MedHacks",
+    "website": "https://www.medhacks.io/#/",
+    "date": {
+      "start": "2022-09-10",
+      "end": "2022-09-12"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/208/035/thumb/jhu.jpeg?1629898504",
+      "alt": "Jhu"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/208/035/thumb/mh_circle.png?1629898504",
+      "alt": "Mh circle"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "PennApps",
+    "website": "http://pennapps.com/",
+    "date": {
+      "start": "2022-09-10",
+      "end": "2022-09-12"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/207/428/thumb/penn_background.png?1628178776",
+      "alt": "Penn background"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/207/428/thumb/penn_logo.png?1628178761",
+      "alt": "Penn logo"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "PreHackstoric",
+    "website": "https://organize.mlh.io/participants/events/7162-prehackstoric",
+    "date": {
+      "start": "2022-09-10",
+      "end": "2022-09-12"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/206/406/thumb/Prehackstoric_mlh-event-hero.png?1626464056",
+      "alt": "Prehackstoric mlh event hero"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/206/406/thumb/Prehackstoric_mlh-event-title.png?1626464056",
+      "alt": "Prehackstoric mlh event title"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "TechTogether Boston",
+    "website": "https://boston.techtogether.io",
+    "date": {
+      "start": "2022-09-10",
+      "end": "2022-09-12"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/207/427/thumb/ttb-bg.png?1628178255",
+      "alt": "Ttb bg"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/207/427/thumb/ttb-logo.jpeg?1628178252",
+      "alt": "Ttb logo"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "HackRice 11",
+    "website": "https://hack.rice.edu",
+    "date": {
+      "start": "2022-09-17",
+      "end": "2022-09-19"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/207/826/thumb/rice_q.jpg?1629309318",
+      "alt": "Rice q"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/207/826/thumb/hr11_logo.jpg?1629309318",
+      "alt": "Hr11 logo"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "Hack the North",
+    "website": "https://hackthenorth.com/",
+    "date": {
+      "start": "2022-09-17",
+      "end": "2022-09-19"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/207/429/thumb/MLH_Hack_the_North_2021_background2x.png?1628179431",
+      "alt": "Mlh hack the north 2021 background2x"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/207/429/thumb/hack_the_north_logo_2021.png?1628179430",
+      "alt": "Hack the north logo 2021"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "HopHacks",
+    "website": "https://hophacks.com/",
+    "date": {
+      "start": "2022-09-17",
+      "end": "2022-09-19"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/208/675/thumb/photo-johnshopkins.jpg?1631804196",
+      "alt": "Photo johnshopkins"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/208/675/thumb/insta_post_pixel_text.png?1631804196",
+      "alt": "Insta post pixel text"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "Peace Out Hacks",
+    "website": "https://organize.mlh.io/participants/events/7163-peace-out-hacks",
+    "date": {
+      "start": "2022-09-17",
+      "end": "2022-09-19"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/206/407/thumb/peace-out-hacks_mlh-event-hero.png?1627650284",
+      "alt": "Peace out hacks mlh event hero"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/206/407/thumb/peace-out-hacks_mlh-event-title.png?1627650283",
+      "alt": "Peace out hacks mlh event title"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "Backyard Hacks 2.0",
+    "website": "https://organize.mlh.io/participants/events/7164-backyardhacks-2-0",
+    "date": {
+      "start": "2022-09-24",
+      "end": "2022-09-26"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/206/408/thumb/backyard-hack-2_mlh-event-hero.png?1629645807",
+      "alt": "Backyard hack 2 mlh event hero"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/206/408/thumb/backyard-hack-2_mlh-event-title.png?1629645805",
+      "alt": "Backyard hack 2 mlh event title"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "BigRed//Hacks",
+    "website": "https://bigredhacks.com/",
+    "date": {
+      "start": "2022-09-24",
+      "end": "2022-09-26"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/208/036/thumb/mlh_background.png?1629899612",
+      "alt": "Mlh background"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/208/036/thumb/mlh_profile.png?1629899610",
+      "alt": "Mlh profile"
+    },
+    "address": {
+      "locality": "Ithaca",
+      "region": "NY"
+    }
+  },
+  {
+    "name": "SBUHacks",
+    "website": "https://sbuhacks.org/",
+    "date": {
+      "start": "2022-09-24",
+      "end": "2022-09-25"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/208/232/thumb/astro_background_%284%29.png?1631909348",
+      "alt": "Astro background %284%29"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/208/232/thumb/SBUHacks_event_logo_square.png?1630527917",
+      "alt": "Sbuhacks event logo square"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "ShellHacks",
+    "website": "https://shellhacks.net/",
+    "date": {
+      "start": "2022-09-24",
+      "end": "2022-09-26"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/208/576/thumb/MLH_Website_Background.png?1631553961",
+      "alt": "Mlh website background"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/208/576/thumb/Logo_Icon_Pink.png?1631553958",
+      "alt": "Logo icon pink"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "BorderHacks",
+    "website": "https://www.borderhacks.com/",
+    "date": {
+      "start": "2022-09-25",
+      "end": "2022-09-26"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/207/430/thumb/BH_-_Logo_5__%281%29.png?1628629072",
+      "alt": "Bh   logo 5  %281%29"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/207/430/thumb/BH_-_Logo_4__%281%29.png?1628629071",
+      "alt": "Bh   logo 4  %281%29"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "sunhacks",
+    "website": "https://sunhacks.io/",
+    "date": {
+      "start": "2022-10-01",
+      "end": "2022-10-03"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/208/578/thumb/hero.png?1631557763",
+      "alt": "Hero"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/208/578/thumb/logo_%288%29.png?1631557763",
+      "alt": "Logo %288%29"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "WildHacks",
+    "website": "https://organize.mlh.io/participants/events/7419-wildhacks",
+    "date": {
+      "start": "2022-10-01",
+      "end": "2022-10-03"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/208/710/thumb/wild-hacks_mlh-event-hero_%281%29.png?1631896484",
+      "alt": "Wild hacks mlh event hero %281%29"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/208/710/thumb/wild-hacks_mlh-event-title_%281%29.png?1631896484",
+      "alt": "Wild hacks mlh event title %281%29"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "The Golden Hack",
+    "website": "https://www.thegoldenhack.ca/",
+    "date": {
+      "start": "2022-10-02",
+      "end": "2022-10-03"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/208/579/thumb/wlu2.png?1631560205",
+      "alt": "Wlu2"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/208/579/thumb/GoldenHack_Logo-03__1_.png?1631560202",
+      "alt": "Goldenhack logo 03  1 "
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "Data Day Grind 2.0",
+    "website": "https://organize.mlh.io/participants/events/7475-data-day-grind-2-0",
+    "date": {
+      "start": "2022-10-08",
+      "end": "2022-10-10"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/208/711/thumb/data-day-grind-2_mlh-event-hero.png?1631896755",
+      "alt": "Data day grind 2 mlh event hero"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/208/711/thumb/data-day-grind-2_mlh-event-title.png?1631896755",
+      "alt": "Data day grind 2 mlh event title"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "DivHacks",
+    "website": "https://columbiadivhacks.com/",
+    "date": {
+      "start": "2022-10-08",
+      "end": "2022-10-10"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/209/148/thumb/_1632180627812_2.png?1633102491",
+      "alt": " 1632180627812 2"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/209/148/thumb/_1632180627918_1.png?1633102491",
+      "alt": " 1632180627918 1"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Online"
+    }
+  },
+  {
+    "name": "HackHarvard",
+    "website": "http://hackharvard.io/",
+    "date": {
+      "start": "2022-10-08",
+      "end": "2022-10-10"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/208/581/thumb/erin-doering-814K3_kskSI-unsplash.jpg?1631561839",
+      "alt": "Erin doering 814k3 ksksi unsplash"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/208/581/thumb/HackHarvard_21_Logo_with_Text__White_.png?1631561839",
+      "alt": "Hackharvard 21 logo with text  white "
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "MakeUC",
+    "website": "https://makeuc.io/",
+    "date": {
+      "start": "2022-10-09",
+      "end": "2022-10-11"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/208/676/thumb/makeuc-banner-logo__1_.png?1631820177",
+      "alt": "Makeuc banner logo  1 "
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/208/676/thumb/Screen_Shot_2021-09-16_at_3.24.42_PM.png?1631820309",
+      "alt": "Screen shot 2021 09 16 at 3.24.42 pm"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "Local Hack Day: Learn",
+    "website": "https://organize.mlh.io/participants/events/7190-local-hack-day-learn-2022",
+    "date": {
+      "start": "2022-10-10",
+      "end": "2022-10-18"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/208/070/thumb/generic_square.png?1630005396",
+      "alt": "Generic square"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/208/070/thumb/generic_mlh-event-hero.png?1630005396",
+      "alt": "Generic mlh event hero"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "Ada Hack",
+    "website": "https://adahack.tech/",
+    "date": {
+      "start": "2022-10-15",
+      "end": "2022-10-17"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/209/418/thumb/Screenshot_2021-10-13_at_14-35-34_AdaHack_2021.png?1634150178",
+      "alt": "Screenshot 2021 10 13 at 14 35 34 adahack 2021"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/209/418/thumb/_1633268451590_Copy_of_ada_hack_2021_logo__1_.png?1634150178",
+      "alt": " 1633268451590 copy of ada hack 2021 logo  1 "
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "Hack the Valley",
+    "website": "https://hackthevalley.io",
+    "date": {
+      "start": "2022-10-15",
+      "end": "2022-10-17"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/208/583/thumb/239946644_568252921043481_6318917730420098257_n.png?1631565164",
+      "alt": "239946644 568252921043481 6318917730420098257 n"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/208/583/thumb/143223143_4081538598531758_2947854738040062182_n.png?1631565164",
+      "alt": "143223143 4081538598531758 2947854738040062182 n"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "MHacks 14",
+    "website": "http://mhacks.org/",
+    "date": {
+      "start": "2022-10-15",
+      "end": "2022-10-17"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/209/124/thumb/_1632453187821_MLHEventDesign.jpg?1633024375",
+      "alt": " 1632453187821 mlheventdesign"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/209/124/thumb/_1632453187922_smallLogoMLH-01.png?1633024374",
+      "alt": " 1632453187922 smalllogomlh 01"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "HackRU",
+    "website": "https://hackru.org/",
+    "date": {
+      "start": "2022-10-16",
+      "end": "2022-10-17"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/209/416/thumb/_1633656821322_300x300MLH.png?1634134470",
+      "alt": " 1633656821322 300x300mlh"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/209/416/thumb/_1633656821471_100x100MLH.png?1634134469",
+      "alt": " 1633656821471 100x100mlh"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "Cal Hacks",
+    "website": "https://calhacks.io/",
+    "date": {
+      "start": "2022-10-22",
+      "end": "2022-10-24"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/208/582/thumb/240259126_4196022260497109_3803671336612521425_n_1.png?1631564481",
+      "alt": "240259126 4196022260497109 3803671336612521425 n 1"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/208/582/thumb/quare.png?1631564481",
+      "alt": "Quare"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "DandyHacks",
+    "website": "https://dandyhacks.net/",
+    "date": {
+      "start": "2022-10-22",
+      "end": "2022-10-24"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/209/552/thumb/_1634255992721_Event_background_square.png?1634743342",
+      "alt": " 1634255992721 event background square"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/209/552/thumb/_1634255992782_Logo.png?1634743342",
+      "alt": " 1634255992782 logo"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "Hack Around the World",
+    "website": "https://organize.mlh.io/participants/events/7476-hack-around-the-world",
+    "date": {
+      "start": "2022-10-22",
+      "end": "2022-10-24"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/208/712/thumb/hack-around-the-world_mlh-event-hero.png?1631897132",
+      "alt": "Hack around the world mlh event hero"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/208/712/thumb/hack-around-the-world_mlh-event-title.png?1631897132",
+      "alt": "Hack around the world mlh event title"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "Hack This Fall 2.0",
+    "website": "https://hackthisfall.tech/",
+    "date": {
+      "start": "2022-10-22",
+      "end": "2022-10-24"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/208/577/thumb/MLH-Event-Background.png?1631554498",
+      "alt": "Mlh event background"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/208/577/thumb/HTF-Square-Logo.png?1631554497",
+      "alt": "Htf square logo"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "Pitt Challenge ",
+    "website": "https://pittchallenge.com/",
+    "date": {
+      "start": "2022-10-22",
+      "end": "2022-10-24"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/209/070/thumb/_1632842416227_pitt-challenge-300x300.png?1632849078",
+      "alt": " 1632842416227 pitt challenge 300x300"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/209/070/thumb/_1632312594414_ThePittChallengeLogoSquare%281%29.png?1632849077",
+      "alt": " 1632312594414 thepittchallengelogosquare%281%29"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "PlutoHacks",
+    "website": "https://plutohacks.com/",
+    "date": {
+      "start": "2022-10-22",
+      "end": "2022-10-24"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/209/230/thumb/mlh-bg.png?1633450926",
+      "alt": "Mlh bg"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/209/230/thumb/phacks-icon.png?1633450926",
+      "alt": "Phacks icon"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "DubHacks",
+    "website": "https://dh21.dubhacks.co/",
+    "date": {
+      "start": "2022-10-23",
+      "end": "2022-10-24"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/209/459/thumb/DH_Splash.png?1634302894",
+      "alt": "Dh splash"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/209/459/thumb/DH_Logo.png?1634302894",
+      "alt": "Dh logo"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "HackDuke",
+    "website": "https://2021.hackduke.org/",
+    "date": {
+      "start": "2022-10-23",
+      "end": "2022-10-24"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/209/125/thumb/mlh_cover_%281%29.png?1633031873",
+      "alt": "Mlh cover %281%29"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/209/125/thumb/mlh_logo_%281%29.png?1633031873",
+      "alt": "Mlh logo %281%29"
+    },
+    "address": {
+      "locality": "Durham",
+      "region": "North Carolina"
+    }
+  },
+  {
+    "name": "hackCBS 4.0",
+    "website": "https://hackcbs.tech/",
+    "date": {
+      "start": "2022-10-29",
+      "end": "2022-10-31"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/209/229/thumb/_1631543000803_1630744938173_bg_MLH_hackcbs.png?1633417820",
+      "alt": " 1631543000803 1630744938173 bg mlh hackcbs"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/209/229/thumb/_1631542999629_1630744938216_hackCBS_4.0.png?1633417819",
+      "alt": " 1631542999629 1630744938216 hackcbs 4.0"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "HackNITR 3.0",
+    "website": "https://hacknitr.tech/#home",
+    "date": {
+      "start": "2022-10-29",
+      "end": "2022-10-31"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/208/037/thumb/Frame_90.png?1629899872",
+      "alt": "Frame 90"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/208/037/thumb/HackNITR_Logo_Dark.png?1629899872",
+      "alt": "Hacknitr logo dark"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "Hack-O-Lantern",
+    "website": "https://organize.mlh.io/participants/events/7477-hack-o-lantern",
+    "date": {
+      "start": "2022-10-29",
+      "end": "2022-10-31"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/208/713/thumb/hack-o-lantern_mlh-event-hero.png?1632246294",
+      "alt": "Hack o lantern mlh event hero"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/208/713/thumb/hack-o-lantern_mlh-event-title.png?1632246293",
+      "alt": "Hack o lantern mlh event title"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "HackUMBC",
+    "website": "https://www.hackumbc.org/",
+    "date": {
+      "start": "2022-10-29",
+      "end": "2022-10-31"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/208/807/thumb/_1631938649654_New_Background_1%281%29.png?1632160313",
+      "alt": " 1631938649654 new background 1%281%29"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/208/807/thumb/_1631912418912_hackUMBC_logo_without_hat%281%29.png?1632160313",
+      "alt": " 1631912418912 hackumbc logo without hat%281%29"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "VolHacks",
+    "website": "https://volhacks.org/",
+    "date": {
+      "start": "2022-10-29",
+      "end": "2022-10-31"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/209/098/thumb/_1631923760615_background_300_300.png?1632931477",
+      "alt": " 1631923760615 background 300 300"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/209/098/thumb/_1631923760727_logo_100_100.png?1632931477",
+      "alt": " 1631923760727 logo 100 100"
+    },
+    "address": {
+      "locality": "Knoxville",
+      "region": "Tennessee"
+    }
+  },
+  {
+    "name": "HackTX",
+    "website": "https://hacktx.com/",
+    "date": {
+      "start": "2022-10-30",
+      "end": "2022-10-31"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/209/575/thumb/_1633580005301_EventBackground.png?1634820132",
+      "alt": " 1633580005301 eventbackground"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/209/575/thumb/_1633580005367_EventLogoSquare.png?1634820131",
+      "alt": " 1633580005367 eventlogosquare"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "Agent:Hacker",
+    "website": "https://organize.mlh.io/participants/events/7562-agent-hacker",
+    "date": {
+      "start": "2022-11-05",
+      "end": "2022-11-07"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/209/275/thumb/agent_hacker_mlh-event-hero.png?1633626302",
+      "alt": "Agent hacker mlh event hero"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/209/275/thumb/agent_hacker_mlh-event-title.png?1633626302",
+      "alt": "Agent hacker mlh event title"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "Hack K-State",
+    "website": "https://hackkstate.tech/",
+    "date": {
+      "start": "2022-11-05",
+      "end": "2022-11-07"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/209/553/thumb/_1634241921615_hackkstate-background-resized.png?1634756437",
+      "alt": " 1634241921615 hackkstate background resized"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/209/553/thumb/_1634241921678_hackkstate-logo-resized.png?1634756437",
+      "alt": " 1634241921678 hackkstate logo resized"
+    },
+    "address": {
+      "locality": "Manhattan",
+      "region": "Kansas"
+    }
+  },
+  {
+    "name": "HackPrinceton",
+    "website": "https://www.hackprinceton.com/",
+    "date": {
+      "start": "2022-11-05",
+      "end": "2022-11-07"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/209/833/thumb/Untitled_design%283%29.png?1636037469",
+      "alt": "Untitled design%283%29"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/209/833/thumb/_1633574288190_LOGO_w_OUTLINE.png?1636037468",
+      "alt": " 1633574288190 logo w outline"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "HackUMass",
+    "website": "https://hackumass.com/",
+    "date": {
+      "start": "2022-11-05",
+      "end": "2022-11-07"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/209/790/thumb/_1634849844189_HackUMass_IX_Background_-300x300.png?1635865162",
+      "alt": " 1634849844189 hackumass ix background  300x300"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/209/790/thumb/_1634849844263_HackUMass_IX_Logo_-100x100.png?1635865162",
+      "alt": " 1634849844263 hackumass ix logo  100x100"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "Tigerhacks",
+    "website": "https://tigerhacks.com/",
+    "date": {
+      "start": "2022-11-05",
+      "end": "2022-11-07"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/209/595/thumb/_1634513777358_columns.jpeg?1634940517",
+      "alt": " 1634513777358 columns"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/209/595/thumb/_1634588219514_tiger.jpeg?1634940513",
+      "alt": " 1634588219514 tiger"
+    },
+    "address": {
+      "locality": "Columbia",
+      "region": "Missouri"
+    }
+  },
+  {
+    "name": "Girls Hoo Hack",
+    "website": "https://www.gwcuva.com/hack",
+    "date": {
+      "start": "2022-11-06",
+      "end": "2022-11-07"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/209/789/thumb/_1633939844795_GHH_Posts__16_.png?1635864643",
+      "alt": " 1633939844795 ghh posts  16 "
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/209/789/thumb/_1633939844913_GHH_Posts__15_.png?1635864642",
+      "alt": " 1633939844913 ghh posts  15 "
+    },
+    "address": {
+      "locality": "Charlottesville",
+      "region": "Virginia"
+    }
+  },
+  {
+    "name": "hackher",
+    "website": "https://qwic.org/hackHer",
+    "date": {
+      "start": "2022-11-06",
+      "end": "2022-11-07"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/209/792/thumb/Untitled_design%282%29.png?1635867878",
+      "alt": "Untitled design%282%29"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/209/792/thumb/logo_hackher_%282%29.png?1635867878",
+      "alt": "Logo hackher %282%29"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "hackPHS",
+    "website": "https://www.hackphs.tech/",
+    "date": {
+      "start": "2022-11-06",
+      "end": "2022-11-07"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/209/417/thumb/_1633117549413_Screen_Shot_2021-10-01_at_3.40.21_PM.png?1634134885",
+      "alt": " 1633117549413 screen shot 2021 10 01 at 3.40.21 pm"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/209/417/thumb/_1633111665094_hackphslogo2019.png?1634134885",
+      "alt": " 1633111665094 hackphslogo2019"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "HackRPI",
+    "website": "https://hackrpi.com/",
+    "date": {
+      "start": "2022-11-06",
+      "end": "2022-11-07"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/209/788/thumb/_1634776835001_HackRPI_300x300.png?1635859096",
+      "alt": " 1634776835001 hackrpi 300x300"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/209/788/thumb/_1634776835065_HackRPILogo.png?1635859096",
+      "alt": " 1634776835065 hackrpilogo"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "NewHacks",
+    "website": "https://newhacks.ca/",
+    "date": {
+      "start": "2022-11-06",
+      "end": "2022-11-07"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/209/791/thumb/_1634515443747_Frame_1__1__%282%29.png?1635867462",
+      "alt": " 1634515443747 frame 1  1  %282%29"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/209/791/thumb/_1634515443803_Frame_1_%282%29.png?1635867462",
+      "alt": " 1634515443803 frame 1 %282%29"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "UB Hacking",
+    "website": "https://www.ubhacking.com/",
+    "date": {
+      "start": "2022-11-06",
+      "end": "2022-11-07"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/209/772/thumb/_1634571204928_300x300-03.png?1635804589",
+      "alt": " 1634571204928 300x300 03"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/209/772/thumb/_1634571205023_100x100-02.png?1635804589",
+      "alt": " 1634571205023 100x100 02"
+    },
+    "address": {
+      "locality": "Buffalo",
+      "region": "New York"
+    }
+  },
+  {
+    "name": "HackFit",
+    "website": "https://organize.mlh.io/participants/events/7563-hackfit",
+    "date": {
+      "start": "2022-11-12",
+      "end": "2022-11-14"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/209/276/thumb/HackFit_mlh-event-hero.png?1633626425",
+      "alt": "Hackfit mlh event hero"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/209/276/thumb/HackFit_mlh-event-title.png?1633626424",
+      "alt": "Hackfit mlh event title"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "Knight Hacks",
+    "website": "https://2021.knighthacks.org/",
+    "date": {
+      "start": "2022-11-12",
+      "end": "2022-11-14"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/209/654/thumb/_1633323420971_MLH_Event_Background_%281%29.png?1635158952",
+      "alt": " 1633323420971 mlh event background %281%29"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/209/654/thumb/MLH_Event_Logo_Square_%281%29.png?1635158952",
+      "alt": "Mlh event logo square %281%29"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "HackDown",
+    "website": "https://hackdown.net/",
+    "date": {
+      "start": "2022-11-13",
+      "end": "2022-11-14"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/209/099/thumb/_1632718154940_dea7c4e2b22641f483162e148d7f051b.png?1632934884",
+      "alt": " 1632718154940 dea7c4e2b22641f483162e148d7f051b"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/209/099/thumb/_1632718155049_dea7c4e2b22641f483162e148d7f051b__2_.png?1632934884",
+      "alt": " 1632718155049 dea7c4e2b22641f483162e148d7f051b  2 "
+    },
+    "address": {
+      "locality": "Ewing",
+      "region": "New Jersey"
+    }
+  },
+  {
+    "name": "HackNJIT",
+    "website": "https://hacknjit.org/",
+    "date": {
+      "start": "2022-11-13",
+      "end": "2022-11-14"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/209/984/thumb/hacknjit2021_splash_300_px.png?1636733413",
+      "alt": "Hacknjit2021 splash 300 px"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/209/984/thumb/hacknjit_logo_100x100.png?1636733413",
+      "alt": "Hacknjit logo 100x100"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "Technica",
+    "website": "https://gotechnica.org/",
+    "date": {
+      "start": "2022-11-13",
+      "end": "2022-11-14"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/208/903/thumb/_1631754674296_umd_background.png?1632433934",
+      "alt": " 1631754674296 umd background"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/208/903/thumb/_1631754674374_logo_10_by_10.png?1632433934",
+      "alt": " 1631754674374 logo 10 by 10"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "Back to Hacking",
+    "website": "https://organize.mlh.io/participants/events/7564-back-to-hacking",
+    "date": {
+      "start": "2022-11-19",
+      "end": "2022-11-21"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/209/277/thumb/back-to-hacking_mlh-event-hero.png?1633626585",
+      "alt": "Back to hacking mlh event hero"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/209/277/thumb/back-to-hacking_mlh-event-title.png?1633626585",
+      "alt": "Back to hacking mlh event title"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "Garuda Hacks 2.0",
+    "website": "https://garudahacks.com/",
+    "date": {
+      "start": "2022-11-19",
+      "end": "2022-11-21"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/209/655/thumb/_1634914753927_background_300px.png?1635161899",
+      "alt": " 1634914753927 background 300px"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/209/655/thumb/_1634914754008_logo3_2_-_300px.png?1635161899",
+      "alt": " 1634914754008 logo3 2   300px"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "Hack Western 8",
+    "website": "https://www.hackwestern.com/",
+    "date": {
+      "start": "2022-11-19",
+      "end": "2022-11-21"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/210/214/thumb/_1631536927873_1597421231631_Hack_Western_Background_-_MLH.png?1638970792",
+      "alt": " 1631536927873 1597421231631 hack western background   mlh"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/210/214/thumb/_1631536924413_1597421231986_Hack_Western_Logo.png?1638970787",
+      "alt": " 1631536924413 1597421231986 hack western logo"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "jacobsHack!",
+    "website": "https://jacobshack.com/",
+    "date": {
+      "start": "2022-11-20",
+      "end": "2022-11-21"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/210/215/thumb/_1631538940164_1564994117460_Bremen_%281%29.png?1638971185",
+      "alt": " 1631538940164 1564994117460 bremen %281%29"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/210/215/thumb/_1636532400642_Logo-b-100-px.png?1638971185",
+      "alt": " 1636532400642 logo b 100 px"
+    },
+    "address": {
+      "locality": "Bremen",
+      "region": "Germany"
+    }
+  },
+  {
+    "name": "Give Back Hacks 2.0",
+    "website": "https://organize.mlh.io/participants/events/7565-give-back-hacks-2-0",
+    "date": {
+      "start": "2022-11-26",
+      "end": "2022-11-28"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/209/278/thumb/give-back-hacks_mlh-event-hero.png?1633626823",
+      "alt": "Give back hacks mlh event hero"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/209/278/thumb/give-back-hacks_mlh-event-title.png?1633626823",
+      "alt": "Give back hacks mlh event title"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "NextStep",
+    "website": "https://www.hackalphax.co/",
+    "date": {
+      "start": "2022-11-26",
+      "end": "2022-11-28"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/210/167/thumb/_1636762592823_nextstepbanner.png?1638022810",
+      "alt": " 1636762592823 nextstepbanner"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/210/167/thumb/_1637787196029_alphaxfavicon2.png?1638022810",
+      "alt": " 1637787196029 alphaxfavicon2"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "Hackcoming",
+    "website": "https://organize.mlh.io/participants/events/7607-hackcoming",
+    "date": {
+      "start": "2022-12-03",
+      "end": "2022-12-05"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/209/478/thumb/Hackcoming_mlh-event-hero.png?1634390173",
+      "alt": "Hackcoming mlh event hero"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/209/478/thumb/Hackcoming_mlh-event-title.png?1634390173",
+      "alt": "Hackcoming mlh event title"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "UniHack",
+    "website": "https://unihack.eu/",
+    "date": {
+      "start": "2022-12-03",
+      "end": "2022-12-05"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/210/207/thumb/_1637608410186_unihack-background-2.png?1638312613",
+      "alt": " 1637608410186 unihack background 2"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/210/207/thumb/_1637608410259_unihack-profile.png?1638312613",
+      "alt": " 1637608410259 unihack profile"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "BEN Health Innovation Hackathon",
+    "website": "https://www.benhacks.org/",
+    "date": {
+      "start": "2022-12-04",
+      "end": "2022-12-05"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/210/208/thumb/_1636298698069_Screen_Shot_2021-11-07_at_9.39.20_AM.png?1638365705",
+      "alt": " 1636298698069 screen shot 2021 11 07 at 9.39.20 am"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/210/208/thumb/_1636298698003_Screen_Shot_2021-11-07_at_10.24.00_AM.png?1638365704",
+      "alt": " 1636298698003 screen shot 2021 11 07 at 10.24.00 am"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "Kent Hack Enough",
+    "website": "https://khe.io/",
+    "date": {
+      "start": "2022-12-04",
+      "end": "2022-12-05"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/210/126/thumb/_1637162605564_10th_Anniversary_Background_300x300.png?1637761210",
+      "alt": " 1637162605564 10th anniversary background 300x300"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/210/126/thumb/_1637162605630_KHE2021_Logo_10_Square_Filled_100x100.png?1637761210",
+      "alt": " 1637162605630 khe2021 logo 10 square filled 100x100"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "Bon Hack\u00e9tit 2.0",
+    "website": "https://organize.mlh.io/participants/events/7608-bon-hacketit-2-0",
+    "date": {
+      "start": "2022-12-10",
+      "end": "2022-12-12"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/209/479/thumb/bon-hack%C3%A9tit-2_mlh-event-hero.png?1634390300",
+      "alt": "Bon hack%c3%a9tit 2 mlh event hero"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/209/479/thumb/bon-hack%C3%A9tit-2_mlh-event-title.png?1634390300",
+      "alt": "Bon hack%c3%a9tit 2 mlh event title"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "MapHacks",
+    "website": "https://organize.mlh.io/participants/events/7609-maphacks",
+    "date": {
+      "start": "2022-12-17",
+      "end": "2022-12-19"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/209/480/thumb/MapHacks_mlh-event-hero.png?1634390450",
+      "alt": "Maphacks mlh event hero"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/209/480/thumb/MapHacks_mlh-event-title.png?1634390450",
+      "alt": "Maphacks mlh event title"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  },
+  {
+    "name": "Hacky Winterland",
+    "website": "https://organize.mlh.io/participants/events/7610-hacky-winterland",
+    "date": {
+      "start": "2022-12-24",
+      "end": "2022-12-26"
+    },
+    "image": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/209/481/thumb/hacky-winterland_mlh-event-hero.png?1634390634",
+      "alt": "Hacky winterland mlh event hero"
+    },
+    "logo": {
+      "src": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/209/481/thumb/hacky-winterland_mlh-event-title.png?1634390634",
+      "alt": "Hacky winterland mlh event title"
+    },
+    "address": {
+      "locality": "Everywhere",
+      "region": "Worldwide"
+    }
+  }
+]
